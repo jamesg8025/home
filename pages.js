@@ -7,6 +7,7 @@ ghpages.publish(
   {
     branch: "master",
     repo: repoURL,
+    add: true,
   },
   (err) => {
     if (err) console.log("ERROR: ", err);
