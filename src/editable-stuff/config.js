@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/DSCF5910.JPG"),
+  imageLink: require("../editable-stuff/hashirshoaeb.png"), // TODO: Change to your image
   imageSize: 250,
   message:
     "My name is JTest. I’m a current student at the University of Houston-Clear Lake pursuing a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
